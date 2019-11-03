@@ -1,2 +1,0 @@
-this is my first file where i used the command called nano to create it
-
